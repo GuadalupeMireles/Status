@@ -1,4 +1,6 @@
   
+  ![GitHub Logo](/images/NextSeq.jpj)
+
  # Status
 Nombre del scritp ServiciosStatus.sh  
 Enlistar servicios aceptados   
