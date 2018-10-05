@@ -1,4 +1,5 @@
-# Status
+  
+ # Status
 Nombre del scritp ServiciosStatus.sh  
 Enlistar servicios aceptados   
   
@@ -8,5 +9,6 @@ ID Cotizacion
 Responsable del proyecto  
 Origen  
 Monto  
-Si fue o no Aceptada
-Status  
+Si fue o no Aceptada  
+Status
+  
