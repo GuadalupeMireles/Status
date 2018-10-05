@@ -1,5 +1,5 @@
   
-  ![GitHub Logo](/images/NextSeq.jpj)
+  ![GitHub Logo](/images/NextSeq.jpg)
 
  # Status
 Nombre del scritp ServiciosStatus.sh  
